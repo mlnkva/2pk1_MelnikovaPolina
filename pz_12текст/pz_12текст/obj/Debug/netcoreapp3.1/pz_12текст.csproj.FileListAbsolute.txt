@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\bin\Debug\netcoreapp3.1\pz_12текст.exe
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\bin\Debug\netcoreapp3.1\pz_12текст.deps.json
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\bin\Debug\netcoreapp3.1\pz_12текст.runtimeconfig.json
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\bin\Debug\netcoreapp3.1\pz_12текст.runtimeconfig.dev.json
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\bin\Debug\netcoreapp3.1\pz_12текст.dll
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\bin\Debug\netcoreapp3.1\pz_12текст.pdb
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\obj\Debug\netcoreapp3.1\pz_12текст.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\obj\Debug\netcoreapp3.1\pz_12текст.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\obj\Debug\netcoreapp3.1\pz_12текст.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\obj\Debug\netcoreapp3.1\pz_12текст.AssemblyInfo.cs
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\obj\Debug\netcoreapp3.1\pz_12текст.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\obj\Debug\netcoreapp3.1\pz_12текст.dll
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\obj\Debug\netcoreapp3.1\pz_12текст.pdb
+C:\Users\admin\source\repos\pz_12текст\pz_12текст\obj\Debug\netcoreapp3.1\pz_12текст.genruntimeconfig.cache
