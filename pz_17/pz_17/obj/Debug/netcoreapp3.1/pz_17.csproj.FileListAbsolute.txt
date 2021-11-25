@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\pz_17\pz_17\bin\Debug\netcoreapp3.1\pz_17.exe
+C:\Users\admin\source\repos\pz_17\pz_17\bin\Debug\netcoreapp3.1\pz_17.deps.json
+C:\Users\admin\source\repos\pz_17\pz_17\bin\Debug\netcoreapp3.1\pz_17.runtimeconfig.json
+C:\Users\admin\source\repos\pz_17\pz_17\bin\Debug\netcoreapp3.1\pz_17.runtimeconfig.dev.json
+C:\Users\admin\source\repos\pz_17\pz_17\bin\Debug\netcoreapp3.1\pz_17.dll
+C:\Users\admin\source\repos\pz_17\pz_17\bin\Debug\netcoreapp3.1\pz_17.pdb
+C:\Users\admin\source\repos\pz_17\pz_17\obj\Debug\netcoreapp3.1\pz_17.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\pz_17\pz_17\obj\Debug\netcoreapp3.1\pz_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\pz_17\pz_17\obj\Debug\netcoreapp3.1\pz_17.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\pz_17\pz_17\obj\Debug\netcoreapp3.1\pz_17.AssemblyInfo.cs
+C:\Users\admin\source\repos\pz_17\pz_17\obj\Debug\netcoreapp3.1\pz_17.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\pz_17\pz_17\obj\Debug\netcoreapp3.1\pz_17.dll
+C:\Users\admin\source\repos\pz_17\pz_17\obj\Debug\netcoreapp3.1\pz_17.pdb
+C:\Users\admin\source\repos\pz_17\pz_17\obj\Debug\netcoreapp3.1\pz_17.genruntimeconfig.cache
